@@ -2,8 +2,8 @@
 
 Usuarios
 {
-  "username": "juanperez",
-  "email": "juan@example.com",
+  "username": "carlosmora",
+  "email": "carloscrmora@gmail.com",
   "password": "supersegura123",
   "rol": "cliente",
   "fecha_creacion": "2025-05-14T00:14:45.275Z"
