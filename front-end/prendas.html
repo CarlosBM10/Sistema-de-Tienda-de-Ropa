@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/front-end/css/style.css">
+</head>
+<body>
+    <h2>Gestión de Prendas</h2>
+
+<form id="form-prenda">
+  <input type="text" id="nombre" placeholder="Nombre" required>
+  <input type="text" id="marca" placeholder="Marca" required>
+  <input type="number" id="precio" placeholder="Precio" required>
+  <input type="number" id="stock" placeholder="Stock" required>
+  <input type="number" id="vendidas" placeholder="Vendidas" required>
+  <button type="submit">Agregar Prenda</button>
+</form>
+
+<table id="tabla-prendas">
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Marca</th>
+      <th>Precio</th>
+      <th>Stock</th>
+      <th>Vendidas</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<script src="js/prendas.js"></script>
+</body>
+</html>
+
+
