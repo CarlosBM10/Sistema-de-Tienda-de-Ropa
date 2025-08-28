@@ -1,0 +1,13 @@
+[
+  { "marca": "Nike", "pais": "EE.UU." },
+  { "marca": "Adidas", "pais": "Alemania" },
+  { "marca": "Zara", "pais": "España" },
+  { "marca": "H&M", "pais": "Suecia" },
+  { "marca": "Levi's", "pais": "EE.UU." },
+  { "marca": "Puma", "pais": "Alemania" },
+  { "marca": "Reebok", "pais": "EE.UU." },
+  { "marca": "Under Armour", "pais": "EE.UU." },
+  { "marca": "North Face", "pais": "EE.UU." },
+  { "marca": "Columbia", "pais": "EE.UU." },
+  { "marca": "Speedo", "pais": "Australia" }
+]

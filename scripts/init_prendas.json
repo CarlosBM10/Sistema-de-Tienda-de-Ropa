@@ -1,0 +1,17 @@
+[
+  { "nombre": "Camisa", "marca": "Nike", "precio": 25000, "stock": 10, "vendidas": 3 },
+  { "nombre": "Pantalón", "marca": "Adidas", "precio": 30000, "stock": 5, "vendidas": 2 },
+  { "nombre": "Chaqueta", "marca": "Puma", "precio": 45000, "stock": 8, "vendidas": 5 },
+  { "nombre": "Sudadera", "marca": "Reebok", "precio": 35000, "stock": 12, "vendidas": 6 },
+  { "nombre": "Short", "marca": "Nike", "precio": 20000, "stock": 15, "vendidas": 7 },
+  { "nombre": "Vestido", "marca": "Zara", "precio": 55000, "stock": 4, "vendidas": 1 },
+  { "nombre": "Falda", "marca": "Zara", "precio": 40000, "stock": 6, "vendidas": 2 },
+  { "nombre": "Blusa", "marca": "H&M", "precio": 28000, "stock": 9, "vendidas": 4 },
+  { "nombre": "Jeans", "marca": "Levi's", "precio": 60000, "stock": 7, "vendidas": 5 },
+  { "nombre": "Camiseta", "marca": "Under Armour", "precio": 22000, "stock": 20, "vendidas": 10 },
+  { "nombre": "Abrigo", "marca": "North Face", "precio": 75000, "stock": 3, "vendidas": 2 },
+  { "nombre": "Leggings", "marca": "Adidas", "precio": 32000, "stock": 10, "vendidas": 6 },
+  { "nombre": "Top deportivo", "marca": "Nike", "precio": 27000, "stock": 8, "vendidas": 4 },
+  { "nombre": "Chaleco", "marca": "Columbia", "precio": 50000, "stock": 5, "vendidas": 3 },
+  { "nombre": "Traje de baño", "marca": "Speedo", "precio": 30000, "stock": 6, "vendidas": 2 }
+]

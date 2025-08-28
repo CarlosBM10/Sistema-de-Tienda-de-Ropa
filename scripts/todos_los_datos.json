@@ -1,0 +1,7 @@
+[
+  { "nombre": "Camisa", "marca": "Nike", "precio": 25000, "stock": 10, "vendidas": 3 },
+  { "nombre": "Pantalón", "marca": "Adidas", "precio": 30000, "stock": 5, "vendidas": 2 },
+  { "nombre": "Chaqueta", "marca": "Puma", "precio": 45000, "stock": 8, "vendidas": 5 },
+  { "nombre": "Sudadera", "marca": "Reebok", "precio": 35000, "stock": 12, "vendidas": 6 },
+  { "nombre": "Short", "marca": "Nike", "precio": 20000, "stock": 15, "vendidas": 7 }
+]

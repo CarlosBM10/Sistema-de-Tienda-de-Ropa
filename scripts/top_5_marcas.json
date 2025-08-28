@@ -1,0 +1,7 @@
+[
+  { "_id": "Nike", "total_vendidas": 14 },
+  { "_id": "Under Armour", "total_vendidas": 10 },
+  { "_id": "Adidas", "total_vendidas": 8 },
+  { "_id": "Reebok", "total_vendidas": 6 },
+  { "_id": "Puma", "total_vendidas": 5 }
+]
